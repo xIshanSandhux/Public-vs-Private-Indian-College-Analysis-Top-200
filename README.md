@@ -65,7 +65,16 @@ Link to the Dataset:- /kaggle/input/top-engineering-colleges-india/200_top_Engin
   
 - Initially I was trying to get the number of universities which have a score above 80 but only the top 4 universities had a score above 80 and all of them were Public Universities, therefore I lowered my score threshold to 50. 
   - Analysis after reducing the threshold:-
-    -
+    - Private Universites: 13
+    - Public Universities: 37
+    
+   ![image](https://user-images.githubusercontent.com/129102973/228974881-3e0d61cd-fc6d-4478-b54b-66484a9e7757.png)
+   
+   ![image](https://user-images.githubusercontent.com/129102973/228975001-c1d398a6-dcd1-4834-9501-c91284e27b18.png)
+
+<h1>Conclusion</h1>
+After the Analysis I came to a conclusion that the Public sector universities are better than the private sector universities in India. 
+All of the top 10 universites are from the public Sector, even in the top 20 universites only 10% of the universities are from the private sector and the rest 90% of the universites are from the publc sector.
   
   
   
